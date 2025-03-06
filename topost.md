@@ -1,1 +1,5 @@
-Obsidian + Python + Web3 = Ultimate Productivity Boost! 🚀 Organize your thoughts with Obsidian, automate tasks with Python, and tap into blockchain technology with Web3. Streamline your workflow and unleash your full potential! #productivity #obsidian #python #web3
+Feeling overwhelmed by scattered notes and ideas?  
+1. Use Obsidian for structured note-taking.  
+2. Automate tasks with Python scripts.  
+3. Explore Web3 for decentralized tools.  
+Start small, improve daily, and watch your productivity soar.
