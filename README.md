@@ -6,7 +6,7 @@ Telegram : @sebastien_ta_bot
 ###### Mandatory
 /start\
 /info\
-/help\
+/help
 
 ###### Assistant Bot
 /post_on_X
