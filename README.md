@@ -3,10 +3,10 @@
 Telegram : @sebastien_ta_bot
 
 ### Command available
-###### Mandatory
+###### Common
 /start\
 /info\
 /help
 
-###### Assistant Bot
+###### Assistant bot
 /post_on_X
