@@ -4,9 +4,9 @@ Telegram : @sebastien_ta_bot
 
 ### Command available
 ###### Mandatory
-/start\n
-/info\n
-/help\n
+/start
+/info
+/help
 
 ###### Assistant Bot
 /post_on_X
