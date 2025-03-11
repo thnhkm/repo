@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Obsidian + Python : Transform your notes into a datadriven powerhouse with one script
  Web3 meets Telegram : Decentralized chats are the future of privacy. join the revolution
  With Obsidian, my chaotic thoughts became a Web3 knowledge empire
@@ -17,3 +18,10 @@
  From Telegram chats to Web3 contracts, Python ties it all together
  Obsidian’s vault + Web3’s freedom = Knowledge that can’t be censored
  Python automates, Telegram connects, Web3 empowers. Obsidian ties the knot
+=======
+Feeling overwhelmed by scattered notes and ideas?  
+1. Use Obsidian for structured note-taking.  
+2. Automate tasks with Python scripts.  
+3. Explore Web3 for decentralized tools.  
+Start small, improve daily, and watch your productivity soar.
+>>>>>>> 78d9c77a22467487a44d4fdf19f56fbe4b2b5f01
