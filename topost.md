@@ -1,3 +1,1 @@
-example1\
-example2\
-example3
+Struggling with note-taking productivity? Obsidian and Python can help. 1. Use Obsidian for a structured knowledge base. 2. Automate repetitive tasks with Python scripts. 3. Connect insights with Web3 for decentralized access. Transform chaos into clarity today!
